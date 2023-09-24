@@ -1,0 +1,7 @@
+Ссылки на коммиты в ветках main и dev:
+https://github.com/Titov-Evgeny/17_Titov_Evgeny_/commit/3ab7e5fdc2219de1ab54b9baeca3b9b248822890
+https://github.com/Titov-Evgeny/17_Titov_Evgeny_/commit/00195bc61badf28d96f2759fa499b1235aa97c34
+https://github.com/Titov-Evgeny/17_Titov_Evgeny_/commit/23fe02b5f47fd1c8e02dd83adc4b65ca77308889
+https://github.com/Titov-Evgeny/17_Titov_Evgeny_/commit/6e806f0fff5c1eedc725585fcf82fcc8b09d4bf0
+Ссылка на коммит разрешённым конфликтом после слияния веток:
+https://github.com/Titov-Evgeny/17_Titov_Evgeny_/commit/53668372f9d92969a83f9fe52a7be6499fffaee4
